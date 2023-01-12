@@ -2,7 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Data_New" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Notebook" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Numpy_notebook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Report_mac" vcs="Git" />
   </component>
 </project>
